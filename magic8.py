@@ -1,3 +1,4 @@
+#fix bug here
 import random
 name = "Joe"
 question = "Will I win the lottery?"
